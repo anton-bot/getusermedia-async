@@ -1,0 +1,43 @@
+{
+  "name": "getusermedia-async",
+  "version": "1.0.0",
+  "description": "A promise-based, awaitable, browser-independent getUserMedia function to get user's audio or video.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catcher-in-the-try/getusermedia-async.git"
+  },
+  "keywords": [
+    "getusermedia",
+    "web-speech-api",
+    "web",
+    "speech",
+    "api",
+    "ios",
+    "android",
+    "chrome",
+    "safari",
+    "media",
+    "html5",
+    "audio",
+    "video",
+    "speech",
+    "api",
+    "speech-api",
+    "speech",
+    "speech",
+    "recognition"
+  ],
+  "author": "Anton Ivanov <anton@ivanov.hk>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/catcher-in-the-try/getusermedia-async/issues"
+  },
+  "homepage": "https://github.com/catcher-in-the-try/getusermedia-async#readme",
+  "dependencies": {
+    "getusermedia": "^2.0.1"
+  }
+}
